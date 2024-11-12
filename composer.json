@@ -1,0 +1,19 @@
+{
+    "name": "x3-developer/x3-framework",
+    "description": "MVC Framework with DI",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Trifonova Natalia",
+            "email": "x3.na.tri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
